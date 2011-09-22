@@ -1,0 +1,49 @@
+10
+
+dir
+37
+http://svn.yfsun.com/opinionmining/SentimentAnalysis/src
+http://svn.yfsun.com/opinionmining
+
+
+
+2011-05-16T09:05:38.678809Z
+37
+yifei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fe9d7053-1994-441f-8e83-d7fc5825e5a8
+
+pos
+dir
+
+wse_backup
+dir
+
+machinelearning
+dir
+
+sourcefilter
+dir
+
+parser
+dir
+
+unsupervised
+dir
+
+util
+dir
+
